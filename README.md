@@ -6,13 +6,13 @@
 
 # Topic: Ubiquitous Computing \[2014\]
 
-By Heider Jeffer
+Speaker: Heider Jeffer and Prof. Marc Langheinrich
 
 Instructor: Mehdi Jazayeri
 
 Assistant: Sasa Nesic
 
-Speaker: Prof. Marc Langheinrich
+
 
 # Summary
 
