@@ -2,19 +2,17 @@
 <img src = "https://github-vistors-counter.onrender.com/github?username=https://github.com/HeiderJeffer/MSc-in-AI-ETH-ZURICH-and-USI-Ubiquitous-Computing" alt = "Visitors-Counter"/>
 </body>
 
-# <span class="smallcaps">UNIVERSITÀ DELLA SVIZZERA ITALIANA</span>
+#### <span class="smallcaps">ETH Zurich and UNIVERSITÀ DELLA SVIZZERA ITALIANA</span>
 
-# FACULTY OF COMPUTER SCIENCE
+#### FACULTY OF COMPUTER SCIENCE - Master in Artificial Intelligence
 
-# Master in Artificial Intelligence
+#### Topic: Ubiquitous Computing \[2014\]
 
-# Topic: Ubiquitous Computing \[2014\]
+#### Speaker: Heider Jeffer and Prof. Marc Langheinrich
 
-Speaker: Heider Jeffer and Prof. Marc Langheinrich
+#### Instructor: Mehdi Jazayeri
 
-Instructor: Mehdi Jazayeri
-
-Assistant: Sasa Nesic
+#### Assistant: Sasa Nesic
 
 
 
