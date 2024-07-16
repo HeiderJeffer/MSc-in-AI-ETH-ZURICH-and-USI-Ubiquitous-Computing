@@ -1,3 +1,7 @@
+<body>
+<img src = "https://github-vistors-counter.onrender.com/github?username=https://github.com/HeiderJeffer/MSc-in-AI-ETH-ZURICH-and-USI-Ubiquitous-Computing" alt = "Visitors-Counter"/>
+</body>
+
 # <span class="smallcaps">UNIVERSITÀ DELLA SVIZZERA ITALIANA</span>
 
 # FACULTY OF COMPUTER SCIENCE
